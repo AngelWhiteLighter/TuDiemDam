@@ -13,6 +13,8 @@ namespace Github
             const string version = "QDH";
             const string cert = "b66825cb-2c3d-4d51-98a1-cd244f43dcfb";
 
+            const string versionString = "b66825cb-2c3d-4d51-98a1-cd244f43dcfb";
+
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
