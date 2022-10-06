@@ -10,7 +10,7 @@ namespace Github
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
-            const string version = "ABc";
+            const string version = "XYZ";
 
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
