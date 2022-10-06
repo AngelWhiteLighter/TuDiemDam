@@ -10,8 +10,7 @@ namespace Github
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
-            const string version = "AbC";
-            const string pass = "https://support.microsoft.com/en-ca/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune";
+            const string version = "ABc";
 
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
